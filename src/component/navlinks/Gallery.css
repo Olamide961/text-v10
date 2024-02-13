@@ -1,0 +1,31 @@
+.sub-gallery {
+    position: relative;
+    margin-top: 150px;
+    margin-left: 140px; 
+}
+
+.sub-gallery-para {
+    width: 277.76px;
+    height: 65px;
+    font-size: 65px;
+    line-height: 65px;
+    font-weight: 300;
+    color: grey;
+    opacity: 0.5;
+
+}
+
+.sub-gallery-head {
+    width: 203px;
+    height: 65px;
+    font-weight: 700;
+    line-height: 65px;
+    font-size: 65px;
+    margin-top: 10px;
+}
+.rectangules {
+    padding: 15px;
+    width: 320px;
+    height: 400px;
+}
+

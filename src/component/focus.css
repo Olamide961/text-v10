@@ -1,0 +1,70 @@
+.focus {
+    height: 300px;
+    position: relative;
+    margin-left: 135px;
+    margin-right: 135px;
+
+}
+
+.para {
+    position: absolute;
+    height: 70px;
+    left: 270px;
+}
+
+.para p {
+    font-size: 64px;
+    height: 64px;
+    left: 270px;
+    text-transform: capitalize;
+    text-align: center;
+    color: rgba(136, 131, 131, 0.5);
+    line-height: 64px;
+    font-weight: 300;
+}
+
+.column {
+    margin-top: 10px;
+    position: relative;
+}
+
+.header1, .header2 {
+    position: absolute;
+    top: 60px;
+    font-size: 200px;
+    line-height: 234.38px;
+    font-weight: 900;
+    color: rgba(136, 131, 131, 0.1);
+}
+.header1{
+    left: 50px;
+}
+
+.header2 {
+    left: 900px;
+}
+
+.lorem {
+    position: absolute;
+    left: 190px;
+    font-size: 20px;
+    line-height: 20px;
+    width: 279px;
+    letter-spacing: 2px;
+    height: 144px;
+    font-weight: 400;
+    top: 120px;
+}
+
+.lorem1  {
+    position: absolute;
+    left: 1040px;
+    font-size: 20px;
+    line-height: 20px;
+    width: 379px;
+    letter-spacing: 2px;
+    height: 144px;
+    font-weight: 400;
+    top: 120px;
+}
+

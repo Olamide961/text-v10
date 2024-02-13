@@ -1,0 +1,107 @@
+.row {
+    height: 850px;
+    position: relative;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    padding: auto;
+    overflow: hidden;
+}
+
+.text {
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 300;
+    color: rgb(0, 0, 0, 0.5);
+    text-transform: capitalize;
+}
+
+.image19 {
+    width: 730px;
+    height: 300px;
+    filter: brightness(50%);
+}
+
+.image15 {
+    width: 730px;
+    height: 300px;
+}
+
+.column1, .column2  {
+    margin-top: 25px;
+    float: left;
+    padding: 15px;
+}
+
+.column3 {
+    position: relative;
+    float: left;
+    padding: 15px;
+}
+
+.image16 {
+    width: 350px;
+    height: 300px;
+}
+
+.image17 {
+    width: 730px;
+    height: 300px;
+}
+
+.image18 {
+    width: 350px;
+    height: 300px;
+}
+
+
+.image-text { 
+    position: absolute;
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    left: 10%;
+    top: 150px;
+}
+
+.image-btn {
+    font-family: "Gothic A1";
+    position: absolute;
+    border: none;
+    background: none;
+    color: white;  
+    opacity: 0.8; 
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    left: 0%;
+    letter-spacing: 2px;
+    top: 140px;
+}
+
+.image-btn span {
+    margin: 10px;
+}
+
+.btn7 {
+    position: relative;
+    background-color: black;
+    float: right;
+    margin-right: 10px;
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 12px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: none;
+}
+
+.btn7 span {
+    margin: 10px;
+}
